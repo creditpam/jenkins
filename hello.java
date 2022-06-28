@@ -1,7 +1,7 @@
 public class hello{
     public static void main(String args[]) {
       System.out.println("Hello Java");
-      System.out.println("ADDed Second");
+      System.out.println("Code change to laod after 15 minutes");
         
     }
 }
